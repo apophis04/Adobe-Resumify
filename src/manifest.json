@@ -1,0 +1,21 @@
+{
+    "testId": "b873fa00-96b0-487f-b5e7-d18931734f30",
+    "name": "Final Test",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ]
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html"
+        }
+    ]
+}
